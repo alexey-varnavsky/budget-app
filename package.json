@@ -1,0 +1,16 @@
+{
+  "name": "budget-app",
+  "version": "1.0.0",
+  "description": "Simple budget-app on ES5",
+  "main": "index.html",
+  "homepage": "https://alexey-varnavsky.github.io/budget-app",
+  "scripts": {
+    "deploy": "gh-pages -d ../starter",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Varnavsky",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
